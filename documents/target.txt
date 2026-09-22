@@ -1,0 +1,32 @@
+RETAILER: Target
+
+OVERVIEW: Target is a general merchandise retailer, not a grocery-only retailer. However, groceries are one of the categories customers can purchase through Target’s stores and online services.
+
+STORE LOCATIONS: Target's Store Locator allows customers to find Target locations and view available store information and services. 
+
+GROCERY SERVICES: Target provides grocery shopping through its physical stores and online ordering. Customers can use available pickup and delivery services to receive groceries, depending on location and service eligibility.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Target offers online grocery ordering with pickup available at participating locations.
+
+DELIVERY: Target offers grocery delivery through online grocery ordering. Delivery is provided to the customer’s address, and availability may depend on location and service eligibility.
+
+
+MEMBERSHIP: Target is not a membership warehouse club, and a membership is not required for customers to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Target Pickup and Delivery
+URL: https://corporate.target.com/about/products-services/pickup-delivery
+
+Source: Target Drive Up and Order Pickup
+URL: https://www.target.com/help/articles/delivery-options/drive-up-order-pickup
+
+Source: Target Same-Day Delivery
+URL: https://www.target.com/help/article/000063181
+
+Source: Target Same-Day Services
+URL: https://www.target.com/c/same-day-services/-/N-x09y2
+
+Retrieved: September 2026

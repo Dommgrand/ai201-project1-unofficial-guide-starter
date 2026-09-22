@@ -1,0 +1,28 @@
+RETAILER: Wegmans
+
+OVERVIEW: Wegmans is a grocery retailer that operates grocery stores that offer in-store grocery shopping. Wegmans also provides online grocery ordering and grocery pickup and delivery.
+
+STORE LOCATIONS: Wegmans Store Locator allows customers to find Wegmans locations.
+
+GROCERY SERVICES: Wegmans provides online grocery ordering with options for getting groceries through pickup and delivery.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Wegmans offers online grocery ordering with pickup available at participating locations.
+
+DELIVERY: Wegmans offers grocery delivery through online grocery ordering. Delivery is provided to the customer’s address, and availability may depend on location and service eligibility.
+
+MEMBERSHIP: Wegmans is not a membership warehouse club, and a membership is not required for customers to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Wegmans Store Locator
+URL: https://www.wegmans.com/stores
+
+Source: Wegmans Grocery Delivery & Pickup
+URL: https://www.wegmans.com/grocery-delivery-pickup
+
+Source: Wegmans Online Grocery Ordering, Delivery and Pickup FAQ
+URL: https://www.wegmans.com/service/faq/online-grocery-ordering-delivery-pickup-
+
+Retrieved: September 2026

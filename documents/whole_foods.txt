@@ -1,0 +1,28 @@
+RETAILER: Whole Foods Market
+
+OVERVIEW: Whole Foods Market is a grocery retailer that operates physical stores where customers primarily shop for groceries. Whole Foods Market also provides product and store information through its website.
+
+STORE LOCATIONS: Whole Foods Market's Store Locator allows users to locate Whole Foods Market’s stores by location.
+
+GROCERY SERVICES: Whole Foods Market provides grocery shopping through its physical stores and online ordering. Customers can use online services to order groceries and access available fulfillment options.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Whole Foods Market offers grocery pickup for eligible online grocery orders. Availability depends on location and service eligibility.
+
+DELIVERY: Whole Foods Market offers grocery delivery for eligible online grocery orders. Delivery availability depends on location and service eligibility.
+
+MEMBERSHIP: Whole Foods Market does not require a membership to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Whole Foods Market Store Locator
+URL: https://www.wholefoodsmarket.com/stores
+
+Source: Whole Foods Market Online Ordering
+URL: https://www.wholefoodsmarket.com/online-ordering
+
+Source: Whole Foods Market Grocery Delivery and Pickup FAQ
+URL: https://www.wholefoodsmarket.com/customer-service/topics/grocery-delivery-and-pickup
+
+Retrieved: September 2026

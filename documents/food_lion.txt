@@ -1,0 +1,28 @@
+RETAILER: Food Lion
+
+OVERVIEW: Food Lion is a grocery retailer that operates stores where customers can shop for groceries in person. Food Lion also provides online grocery ordering and grocery pickup and delivery.
+
+STORE LOCATIONS: Food Lion’s Store Locator allows customers to find Food Lion locations. Food Lion provides store directories for states including Maryland and North Carolina, which can be used to find stores by location.
+
+GROCERY SERVICES: Food Lion provides grocery shopping through its physical stores and online ordering. Customers can use available pickup and delivery services to receive groceries, depending on location and service eligibility.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Food Lion offers online grocery ordering with pickup available at participating locations.
+
+DELIVERY: Food Lion offers grocery delivery through online grocery ordering. Delivery is provided to the customer’s address, and availability may depend on location and service eligibility.
+
+MEMBERSHIP: Food Lion is not a membership warehouse club, and a membership is not required for customers to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Food Lion Maryland Store Locations
+URL: https://stores.foodlion.com/md
+
+Source: Food Lion North Carolina Store Locations
+URL: https://stores.foodlion.com/nc
+
+Source: Food Lion Expands Pickup and Home Delivery Across the Carolinas
+URL: https://newsroom.foodlion.com/news-releases/news-release-details/food-lion-expands-pickup-and-home-delivery-across-carolinas/
+
+Retrieved: September 2026

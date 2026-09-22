@@ -1,0 +1,28 @@
+RETAILER: Trader Joe's
+
+OVERVIEW: Trader Joe’s is a grocery retailer that operates physical stores where customers primarily shop for groceries. Trader Joe’s also provides product and store information through its website.
+
+STORE LOCATIONS: Trader Joe's Store Directory allows users to locate Trader Joe’s stores.
+
+GROCERY SERVICES: Trader Joe's website provides information about grocery products and categories, including pantry products and other food items. The website does not necessarily represent every product available in its stores.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: The sources used for this knowledge base do not establish a general Trader Joe's grocery pickup service.
+
+DELIVERY: The sources used for this knowledge base do not establish a general Trader Joe's grocery delivery service.
+
+MEMBERSHIP: Trader Joe's does not require a membership to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Trader Joe's Store Directory
+URL: https://locations.traderjoes.com/
+
+Source: Trader Joe's Products
+URL: https://www.traderjoes.com/home/products/category?categoryId=71
+
+Source: Trader Joe's Pantry Products
+URL: https://www.traderjoes.com/home/products/category/for-the-pantry-137
+
+Retrieved: September 2026

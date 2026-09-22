@@ -1,0 +1,28 @@
+RETAILER: Giant Food
+
+OVERVIEW: Giant Food is a grocery retailer that operates stores where customers can shop for groceries in person. Giant Food also provides online grocery ordering and grocery pickup and delivery.
+
+STORE LOCATIONS: Giant Food’s Store Locator allows customers to find Giant Food locations and view available store information and services. Giant provides a Maryland store directory that can be used to find locations throughout the state.
+
+GROCERY SERVICES: Giant Food provides grocery shopping through its physical stores and online ordering. Customers can use available pickup and delivery services to receive groceries, depending on location and service eligibility.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Giant Food offers online grocery ordering with pickup available at participating locations.
+
+DELIVERY: Giant Food offers grocery delivery through online grocery ordering. Delivery is provided to the customer’s address, and availability may depend on location and service eligibility.
+
+MEMBERSHIP: Giant Food is not a membership warehouse club, and a membership is not required for customers to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: Giant Food Maryland Store Locations
+URL: https://stores.giantfood.com/md
+
+Source: Giant Food Store Locator
+URL: https://stores.giantfood.com/index.html
+
+Source: Giant Food Store and Service Locator
+URL: https://giantfood.com/our_stores/locator/store_search.htm
+
+Retrieved: September 2026

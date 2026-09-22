@@ -1,0 +1,30 @@
+RETAILER: Costco
+
+OVERVIEW: Costco is a membership-based warehouse retailer that sells groceries and other products through physical warehouses and online services.
+
+STORE LOCATIONS: Costco’s warehouse locator allows users to search for Costco locations and find information about warehouses in their area.
+
+GROCERY SERVICES: Costco provides grocery shopping through its warehouses and online services such as:
+
+* grocery shopping
+* online grocery ordering
+* delivery
+* warehouse shopping
+* same-day grocery services where applicable
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: The sources used for this knowledge base document Costco’s same-day grocery delivery service but do not establish a general grocery pickup service.
+
+DELIVERY: Costco offers same-day grocery delivery in eligible areas.
+
+MEMBERSHIP: Costco’s shopping model is membership-based. Costco offers different membership levels, and membership is associated with purchasing merchandise and services from Costco.
+
+SOURCE INFORMATION:
+Source: Costco Warehouse Locations
+URL: https://www.costco.com/w/-/locations
+
+Source: Costco Same-Day Grocery Delivery
+URL: https://www.costco.com/f/-/same-day
+
+Retrieved: September 2026

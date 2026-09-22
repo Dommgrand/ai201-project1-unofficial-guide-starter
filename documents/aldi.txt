@@ -1,0 +1,25 @@
+RETAILER: ALDI
+
+OVERVIEW: ALDI is a grocery retailer that operates physical stores where customers primarily shop for groceries. ALDI also provides product and store information through its website.
+
+STORE LOCATIONS: ALDI Store Locator allows users to locate ALDI’s stores.
+
+GROCERY SERVICES: ALDI provides grocery shopping through its physical stores and online services. Customers can use grocery pickup and delivery services where available.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: ALDI offers grocery pickup for online grocery orders at participating locations. Availability may depend on the customer’s location.
+
+DELIVERY: ALDI offers grocery delivery for online grocery orders in eligible areas. Delivery availability depends on location and service eligibility.
+
+MEMBERSHIP: ALDI does not require a membership to shop at its stores.
+
+SOURCE INFORMATION:
+
+Source: ALDI Grocery Pickup
+URL: https://www.aldi.us/store/aldi/pages/grocery-pickup
+
+Source: ALDI Grocery Delivery
+URL: https://www.aldi.us/store/aldi/pages/grocery-delivery
+
+Retrieved: September 2026

@@ -1,0 +1,29 @@
+RETAILER: BJ's Wholesale Club
+
+OVERVIEW: BJ's Wholesale Club is a membership-based warehouse retailer that sells groceries and other products through physical warehouses and online services.
+
+STORE LOCATIONS: BJ's Wholesale Club's warehouse locator allows users to search for BJ's locations and find information about warehouses in their area.
+
+GROCERY SERVICES: BJ's provides grocery shopping through its physical clubs and online services, including pickup and delivery options for eligible orders.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: BJ’s offers pickup for eligible orders at participating clubs.
+
+DELIVERY: BJ’s offers same-day delivery. Delivery availability depends on location/service eligibility. Customers can order eligible products online. Delivery is fulfilled to the customer’s address.
+
+MEMBERSHIP: BJ's shopping model is membership-based. BJ's offers different membership options, and membership is associated with purchasing merchandise and services from BJ's.
+
+
+SOURCE INFORMATION:
+
+Source: BJ's Club Locator
+URL: https://www.bjs.com/allClubLocator
+
+Source: BJ's Same-Day Delivery
+URL: https://www.bjs.com/about/ordering/same-day-delivery/
+
+Source: BJ's Delivery Terms
+URL: https://www.bjs.com/info/delivery-terms/
+
+Retrieved: September 2026

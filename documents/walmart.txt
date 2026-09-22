@@ -1,0 +1,33 @@
+RETAILER: Walmart
+
+OVERVIEW: Walmart is a large retailer that offers grocery shopping through physical stores and Walmart.com/the Walmart app. Customers can purchase groceries for pickup, delivery, or shipping, depending on the items and services available at their location.
+
+STORE LOCATIONS: Walmart’s Store Finder allows users to search by ZIP code or city/state, find nearby stores, view store hours and services, and select a preferred store. The Store Finder also allows filtering by services such as Grocery, Bakery, Deli, Pharmacy, Gas Station, and others.
+
+GROCERY SERVICES: Walmart’s official site says customers can shop for groceries through Walmart.com or the Walmart app and select how they want to receive their items. Available fulfillment methods include:
+
+* Pickup
+* Delivery
+* Shipping
+
+Walmart also allows users to search for items and filter results based on how and when they want to receive them.
+
+CURRENT PRICES AND INVENTORY: This knowledge base does not provide real-time product prices, inventory levels, promotions, or store-specific product availability. These would require a live data source or API.
+
+PICKUP: Walmart describes pickup as an online ordering process where the customer selects a store and time-slot. Once the order is ready, the customer checks in and goes to a designated curbside pickup space, where a Walmart associate brings out the order. Pickup availability depends on the selected store and order.
+
+DELIVERY: Walmart says customers can enter their address to determine whether delivery is available. If delivery is available, the customer selects a delivery time-slot and the store gathers the order. A local third-party driver may then deliver it to the customer’s door. Delivery availability is location-dependent.
+
+MEMBERSHIP: Walmart membership is optional for ordinary grocery shopping. Walmart+ provides additional benefits, including delivery-related benefits for eligible orders.  
+
+SOURCE INFORMATION
+Source: Walmart Pickup and Delivery
+URL: https://www.walmart.com/help/article/pickup-and-delivery/d0d02a5f54e54592930f110aaf6a2f50
+
+Source: Walmart Store Finder
+URL: https://www.walmart.com/store-finder
+
+Source: The Walmart Site and App Experience
+URL: https://www.walmart.com/help/article/the-walmart-site-and-app-experience/27f2678cb25a40a7b57a359fec3ca67f
+
+Retrieved: September 2026

@@ -26,14 +26,15 @@ The initial knowledge base will use authoritative first-party retailer sources. 
 | 10 | Wegmans Grocery Delivery & Pickup | Grocery pickup, delivery, ordering, fees, and payment information. | https://www.wegmans.com/grocery-delivery-pickup |
 | 11 | Food Lion Maryland Locations | Food Lion locations throughout Maryland. | https://stores.foodlion.com/md |
 | 12 | Food Lion North Carolina Locations | Food Lion locations throughout North Carolina. | https://stores.foodlion.com/nc |
-| 13 | Giant Food Store Locator | Giant Food store locations and services. | https://stores.giantfood.com/index.html |
-| 14 | Giant Food Grocery Services | Grocery pickup, delivery, and same-day service information. | https://giantfood.com/our_stores/locator/store_search.htm |
-| 15 | ALDI Grocery Pickup | ALDI curbside grocery pickup and ordering information. | https://www.aldi.us/store/aldi/pages/grocery-pickup |
-| 16 | ALDI Grocery Delivery | ALDI same-day grocery delivery and ordering information. | https://www.aldi.us/store/aldi/pages/grocery-delivery |
-| 17 | Whole Foods Store Locator | Whole Foods Market store locations and store information. | https://www.wholefoodsmarket.com/stores |
-| 18 | Whole Foods Online Ordering | Grocery delivery, pickup, online ordering, and grocery services. | https://www.wholefoodsmarket.com/online-ordering |
-| 19 | Target Pickup & Delivery | Target Order Pickup, Drive Up, same-day delivery, and grocery services. | https://corporate.target.com/about/products-services/pickup-delivery |
-| 20 | Target Drive Up & Order Pickup | Details about Target Drive Up and Order Pickup services. | https://www.target.com/help/articles/delivery-options/drive-up-order-pickup |
+| 13 | Food Lion Pickup & Home Delivery | Food Lion pickup and home delivery expansion across the Carolinas. | https://newsroom.foodlion.com/news-releases/news-release-details/food-lion-expands-pickup-and-home-delivery-across-carolinas/ |
+| 14 | Giant Food Store Locator | Giant Food store locations and available services. | https://stores.giantfood.com/index.html |
+| 15 | Giant Food Grocery Services | Giant Food store locations and available services. | https://giantfood.com/our_stores/locator/store_search.htm |
+| 16 | ALDI Grocery Pickup | ALDI curbside grocery pickup and ordering information. | https://www.aldi.us/store/aldi/pages/grocery-pickup |
+| 17 | ALDI Grocery Delivery | ALDI same-day grocery delivery and ordering information. | https://www.aldi.us/store/aldi/pages/grocery-delivery |
+| 18 | Whole Foods Store Locator | Whole Foods Market store locations and store information. | https://www.wholefoodsmarket.com/stores |
+| 19 | Whole Foods Online Ordering | Grocery delivery, pickup, online ordering, and grocery services. | https://www.wholefoodsmarket.com/online-ordering |
+| 20 | Target Pickup & Delivery | Target Order Pickup, Drive Up, same-day delivery, and grocery services. | https://corporate.target.com/about/products-services/pickup-delivery |
+| 21 | Target Drive Up & Order Pickup | Details about Target Drive Up and Order Pickup services. | https://www.target.com/help/articles/delivery-options/drive-up-order-pickup |
 
 ## Initial Evaluation Questions
 
